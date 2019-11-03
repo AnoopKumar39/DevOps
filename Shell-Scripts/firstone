@@ -1,0 +1,3 @@
+#!/bin/bash
+### demo for server status
+netstat -lntp

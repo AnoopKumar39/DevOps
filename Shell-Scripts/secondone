@@ -1,0 +1,3 @@
+#!/bin/bash
+### this is nginx info
+yum info nginx

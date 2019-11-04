@@ -9,3 +9,5 @@ echo -e "1.\tAnoop\tDevOps\n2.\tVijay\tDevops"
 ### printing using colors
 echo -e "\e[44;31mRed on blue\e[0m"
 echo no color needed
+echo -e "\e[43;31mRed on Yellow\e[0m"
+No color needed now also

@@ -5,3 +5,7 @@ echo -e "hello world\nhello world from second line"
 
 ##this is for tabular form with tab spaces.
 echo -e "1.\tAnoop\tDevOps\n2.\tVijay\tDevops"
+
+### printing using colors
+echo -e "\e[44;31mRed on blue\e[0m"
+echo no color needed

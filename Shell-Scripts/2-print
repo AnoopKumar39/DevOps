@@ -4,4 +4,4 @@ echo -e "hello world\nhello world from second line"
 
 
 ##this is for tabular form with tab spaces.
-echo "1.\tAnoop\tDevOps\n2.\tVijay\tDevops"
+echo -e "1.\tAnoop\tDevOps\n2.\tVijay\tDevops"

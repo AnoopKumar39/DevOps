@@ -1,0 +1,3 @@
+#!/bin/bash
+##nginx info
+yum info info

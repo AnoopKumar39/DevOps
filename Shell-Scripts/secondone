@@ -2,3 +2,4 @@
 ### this is nginx info
 yum info nginx
 su - centos
+logout

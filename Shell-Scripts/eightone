@@ -2,3 +2,4 @@
 ##httpd info
 yum info httpd
 ls -l
+ps 

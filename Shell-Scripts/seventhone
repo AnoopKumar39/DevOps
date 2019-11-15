@@ -2,4 +2,4 @@
 ##this is for netstat command
 netstat -lntp
 pwd
-
+ps -e

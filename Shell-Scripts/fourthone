@@ -2,3 +2,4 @@
 
 yum info httpd
 ls -A
+ls /etc

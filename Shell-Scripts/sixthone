@@ -2,3 +2,4 @@
 ##this is curl command
 curl localhost
 jobs
+ps -ef 

@@ -4,3 +4,4 @@
 
 netstat -lntp
 ls -F 
+ls -FAl

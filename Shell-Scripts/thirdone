@@ -3,3 +3,4 @@
 ##this is for status of server
 
 netstat -lntp
+ls -F 

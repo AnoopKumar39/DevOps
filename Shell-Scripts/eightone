@@ -1,3 +1,4 @@
 #!/bin/bash
 ##httpd info
 yum info httpd
+ls -l

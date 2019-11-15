@@ -1,3 +1,4 @@
 #!/bin/bash
 
 systemctl start httpd
+yum info httpd

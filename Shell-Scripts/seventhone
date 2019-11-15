@@ -1,3 +1,5 @@
 #!/bin/bash
 ##this is for netstat command
 netstat -lntp
+pwd
+

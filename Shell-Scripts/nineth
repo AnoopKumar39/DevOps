@@ -2,3 +2,4 @@
 ##nginx info
 yum info info
 ls
+ls /usr/local

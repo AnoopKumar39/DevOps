@@ -2,3 +2,4 @@
 ##enable httpd
 systemctl enable httpd
 ls
+ls /etc

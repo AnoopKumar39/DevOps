@@ -3,3 +3,4 @@
 netstat -lntp
 pwd
 ps -e
+pe -ef | grep nginx

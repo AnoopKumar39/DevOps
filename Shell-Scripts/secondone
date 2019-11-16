@@ -3,3 +3,4 @@
 yum info nginx
 su - centos
 logout
+yum info hhtpd

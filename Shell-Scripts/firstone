@@ -2,3 +2,4 @@
 ### demo for server status
 netstat -lntp
 cd ..
+cd /root

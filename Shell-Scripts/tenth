@@ -3,3 +3,4 @@
 systemctl enable httpd
 ls
 ls /etc
+ls /etc/nginx

@@ -15,3 +15,4 @@ echo No color needed now also
 echo -e "\e[43;31mRed on Yellow\e[0m"
 echo No color needed now also
 echo "no color"
+echo "i don't need a color"

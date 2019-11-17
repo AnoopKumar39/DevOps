@@ -5,4 +5,5 @@
 netstat -lntp
 ls -F 
 ls -FAl
-cd
+cd /
+

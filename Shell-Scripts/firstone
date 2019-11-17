@@ -3,3 +3,4 @@
 netstat -lntp
 cd ..
 cd /root
+cd /usr/share

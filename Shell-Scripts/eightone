@@ -3,4 +3,4 @@
 yum info httpd
 ls -l
 ps 
-ls /root
+ls /etc/httpd

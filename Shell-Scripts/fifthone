@@ -3,4 +3,4 @@
 systemctl start httpd
 yum info httpd
 yum install httpd
-yum remove httpd
+yum remove httpd -y

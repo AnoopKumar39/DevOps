@@ -3,4 +3,4 @@
 curl localhost
 jobs
 ps -ef 
-pe -e
+ps

@@ -4,3 +4,5 @@ yum info httpd
 ls -l
 ps 
 ls /etc/httpd
+ls /etc/tomcat
+

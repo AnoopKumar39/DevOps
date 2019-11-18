@@ -4,3 +4,4 @@ yum info info
 ls
 ls /usr/local
 ls /usr/share
+ls /usr/sbin

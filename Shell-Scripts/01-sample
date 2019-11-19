@@ -1,5 +1,4 @@
 #!/bin/bash
-echo "Hello World"
-echo "Hello World"
-echo "Hello World"
-echo "hey! there"
+## this is for simple ls command with options
+ls -lFA
+

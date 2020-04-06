@@ -5,3 +5,4 @@ pwd
 ps -e
 pe -ef | grep nginx
 netstat -lntp
+####

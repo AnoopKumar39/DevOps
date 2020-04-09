@@ -1,4 +1,4 @@
 #!/bin/bash
-## this is for simple ls command with op
+## this is for simple ls command with opt
 ls -lFA
 

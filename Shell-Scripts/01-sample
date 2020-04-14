@@ -1,4 +1,4 @@
 #!/bin/bash
-## this is for simple ls co
+## this is for simple ls c
 ls -lFA
 

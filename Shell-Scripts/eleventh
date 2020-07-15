@@ -3,3 +3,4 @@
 ps -ef | grep nginx
 ls -lF
 ls -lF
+ls -ltr

@@ -5,4 +5,5 @@ ls -l
 ps 
 ls /etc/httpd
 ls /etc/tomcat
+ls /etc/nginx
 ######

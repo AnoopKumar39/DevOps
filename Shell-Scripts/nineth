@@ -8,3 +8,11 @@ ls /usr/sbin
 ps -ef | grep tomcat
 pe aux | grep httpd
 ln -s newname /etc/passwd
+yum info info
+ls
+ls /usr/local
+ls /usr/share
+ls /usr/sbin
+ps -ef | grep tomcat
+pe aux | grep httpd
+ln -s newname /etc/passwd

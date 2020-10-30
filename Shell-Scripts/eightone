@@ -7,3 +7,5 @@ ls /etc/httpd
 ls /etc/tomcat
 ls /etc/nginx
 ######
+##httpd info
+###yum info httpd

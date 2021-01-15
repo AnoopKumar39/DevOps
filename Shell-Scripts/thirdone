@@ -7,3 +7,4 @@ ls -F
 ls -FAl
 cd 
 ###netstat -lntp
+###netstat -lntp
